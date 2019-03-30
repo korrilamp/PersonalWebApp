@@ -21,14 +21,23 @@ h4 {
 }
 
 .queen-of-computers {
-  width: 200px;
-  margin: 50px auto;
-  border-radius: 50%;
-  display: inline;
+  width: 300px;
+  margin: 2px auto;
+  border-radius: 70%;
+  display: block;
 }
 
 .content {
   margin-bottom: 50px;
+}
+
+.row{
+  display: flex;
+}
+
+.column{
+  padding-top: 20px;
+  flex: 50%;
 }
 
 .code-container {
