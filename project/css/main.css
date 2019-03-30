@@ -7,6 +7,15 @@ h1 {
   font-size: 50px;
 }
 
+.title_p{
+  padding-top: 200px;
+  padding-bottom: 200px;
+  padding-right: 200px;
+  padding-left: 200px;
+}
+
+
+
 h4 {
   color: #b5b5b5;
 }
